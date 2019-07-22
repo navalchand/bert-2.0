@@ -6,6 +6,7 @@ service.*
 models/
 data/
 notebooks/
+modeling.py
 training-images/
 training-videos/
 __pycache__/
