@@ -1,0 +1,12 @@
+*.pyc
+__pycache__
+.DS_Store
+service.*
+.ipynb_checkpoints/
+models/
+data/
+training-images/
+training-videos/
+__pycache__/
+.vscode/
+.vscode
