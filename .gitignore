@@ -5,6 +5,7 @@ service.*
 .ipynb_checkpoints/
 models/
 data/
+notebooks/
 training-images/
 training-videos/
 __pycache__/
